@@ -1,0 +1,92 @@
+  .window {
+    margin: 4em;
+    min-width: 2133;
+    height: 400px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0.8em 1.5em rgba(51, 51, 51, 0.6), 0 0.5em 2em rgba(51, 51, 51, 0.6);
+    border-radius: 0.5em;
+  }
+  .window .bar {
+    padding: 0.5em;
+    flex: 0 0 auto;
+    display: flex;
+    background: linear-gradient(to bottom, #eaeaea, #d2d2d2);
+    border-bottom: 1px solid #7d7d7d;
+    color: #4c4c4c;
+  }
+  .window .bar .title {
+    margin: 0;
+    display: inline-block;
+    flex: 1 1 auto;
+    line-height: 1;
+    font-family: "Helvetica Neue", "Helvetica", "Lucida Grande", "Lucida", "Arial";
+    text-align: center;
+  }
+  .window .bar .buttons {
+    display: inline-block;
+    flex: 0 0 auto;
+  }
+  .window .bar .buttons .button {
+    margin: 0 0.5em 0 0;
+    height: 1em;
+    width: 1em;
+    display: inline-block;
+    float: left;
+    border-radius: 50%;
+    box-shadow: inset 0 0 0.1em rgba(51, 51, 51, 0.4);
+  }
+  .window .bar .buttons .button:nth-child(1) {
+    position: relative;
+    background: #fe6058;
+  }
+  .window .bar .buttons .button:nth-child(1)::after {
+    width: 0.35em;
+    height: 0.35em;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    background: #4c0000;
+    content: "";
+  }
+  .window .bar .buttons .button:nth-child(2) {
+    background: #fdbd34;
+  }
+  .window .bar .buttons .button:nth-child(3) {
+    background: #23c944;
+  }
+  .window #terminal {
+    padding: 0.4em;
+    max-height: 400px;
+    overflow-y: auto;
+    flex: 1 1 auto;
+    background: #243238;
+  }
+  .window #terminal p {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    font-family: "Inconsolata", "Deja Vu Sans Mono", "Consolas", "Monaco", "Courier";
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #fdfdfd;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0.3em;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    border-radius: 0.3em;
+    background: #eaeaea;
+    -webkit-box-shadow: inset 0 0 0.1em rgba(0, 0, 0, 0.5);
+  } 
+
+  

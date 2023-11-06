@@ -1,0 +1,296 @@
+
+body {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABQAgMAAADjM5anAAAACVBMVEUAAAAPDw8PDxA5dZcEAAAAA3RSTlMACCueE7eWAAAAO0lEQVR4AWOAA0Y4C6vYiFI4qnBU4ajCUYWjCpmwiZGjMBQGspbCmdjEqGX1iIrCUYWjCkcVjiocVQgAPC8OuQNGhAYAAAAASUVORK5CYII=) center 2px;
+    background-color: #fff;
+    color: #000;
+   
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+/* Apply the custom style to the input field */
+.ant-input:focus {
+  border-color: #231f20 !important
+ }
+
+/* Specific CSS selector */
+.ant-form-item-control-input-content .ant-input:focus {
+  border-color: #231f20 !important;
+}
+/* Custom CSS */
+.ant-input:focus, .ant-input:hover {
+  border-color: #231f20 !important;  /* Change the outline color on focus and hover */
+  box-shadow: none  !important/* Add shadow on focus and hover */
+}
+/* Custom CSS */
+/* Custom CSS   linear-gradient(-45deg,#a91823 0%,#ff3545 100%)  */ 
+.ant-table-tbody tr td {
+  color: #231f20 !important; /* Change the font color to #231f20 */
+};
+
+
+/* Custom CSS to change font color for Ant Design Radio */
+.ant-radio-wrapper .ant-radio-inner {
+  color: #231f20 !important;  /* Change the font color to #231f20 */
+}
+/* Custom CSS to change font color for Ant Design Table */
+.ant-table-tbody tr td {
+  color: #231f20 !important; /* Change the font color to #231f20 */
+}
+/* Custom CSS to remove border radius for Ant Design Table */
+.ant-table {
+  border-radius: 0 !important;
+}
+.line {
+  width: 10px; /* Set the width to 10px */
+  height: 90vh;/* Set the height to scrollbar */
+  background: linear-gradient(to bottom, #3498db, #e74c3c); /* Change the gradient colors and direction here */
+  position: absolute;
+  top: 10vh;
+  left: 1000px; /* Adjust the left position as needed */
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+
+
+.selected-button {
+  background-color: #231f20;
+  color: white;
+  height: 40px;
+  width: 120px;
+  margin: 5px; 
+}
+
+.unselected-button {
+  background-color: transparent;
+  color: #231f20;
+  height: 40px;
+  width: 120px;
+  margin: 5px; 
+}
+
+
+.ant-list-horizontal .ant-list-item {
+  display: inline-block;
+  margin-right: 10px; 
+}
+
+
+.ant-list-horizontal .ant-list-item::before {
+  content: none;
+}
+
+.selected-button {
+  background-color: #231f20;
+  color: white;
+  height: 40px;
+  width: 120px;
+  margin: 5px; 
+  box-shadow: 2px 2px 4px #231f20;
+
+}
+
+.unselected-button {
+  background-color: transparent;
+  color: #231f20;
+  height: 40px;
+  width: 120px;
+  margin: 5px; 
+  box-shadow: 2px 2px 4px #231f20;
+
+}
+
+
+.ant-list-horizontal .ant-list-item {
+  display: inline-block;
+  margin-right: 10px; 
+}
+
+
+.ant-list-horizontal .ant-list-item::before {
+  content: none;
+}
+
+
+
+.ant-list-horizontal .ant-list-item {
+  display: inline-block;
+  margin-right: 10px; 
+}
+
+
+.ant-list-horizontal .ant-list-item::before {
+  content: none;
+}
+
+.selected-button {
+  background-color: #231f20;
+  color: white;
+  height: 40px;
+  width: 120px;
+  margin: 5px; /* Adjust the margin as needed */
+  transition: background-color 0.3s; /* Smooth transition effect */
+  box-shadow: none; /* Remove the shadow from selected buttons */
+}
+
+
+
+.unselected-button {
+  background-color: white;
+  color: #231f20;
+  height: 40px;
+  width: 120px;
+  margin: 5px; /* Adjust the margin as needed */
+  transition: background-color 0.3s; /* Smooth transition effect */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to unselected white buttons */
+}
+
+.selected-button:hover {
+  background-color: #231f20 !important; 
+}
+.unselected-button:hover {
+  background-color: #231f20 !important; 
+}
+
+
+/* Horizontal alignment for the list items */
+.ant-list-horizontal .ant-list-item {
+  display: inline-block;
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+/* Optional: Remove list item marker */
+.ant-list-horizontal .ant-list-item::before {
+  content: none;
+}
+
+
+.ThreatThreatBook_logo {
+  color: black; 
+  font: 150px !important;
+  
+}
+
+.ThreatThreatBook_logo::after {
+  content: "  CTI";
+  color: red; 
+ 
+}
+
+.criminal_logo{
+  overflow: hidden;
+    display: block;
+    text-indent: -9999px;
+    width: 300px;
+    height: 110px;
+    margin-left: -10px;
+    background: url(https://www.criminalip.io/images/logo_blue.svg) center center / 250px no-repeat;
+}
+
+.i_font{
+  font-size: 46px;
+
+}
+
+
+
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; 
+}
+
+
+.neumorphic-button {
+  background-color: #231f20;
+  border: 1px solid #201d1e;
+  box-shadow:
+    -5px -5px 10px 0 rgba(0, 0, 0, 0.1),
+    5px 5px 10px 0 rgba(0, 0, 0, 0.1);
+  padding: 15px 30px; 
+  border-radius: 10px; 
+  transition: box-shadow 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.neumorphic-button:hover {
+  box-shadow:
+    -3px -3px 5px 0 rgba(0, 0, 0, 0.2),
+    3px 3px 5px 0 rgba(0, 0, 0, 0.2);
+  transform: translate(2px, 2px); 
+}
+
+
+.button-text {
+  color: #ffffff; 
+  font-size: 16px; 
+  font-weight: bold; 
+}
+
+
+/* custom.css */
+.custom-descriptions .ant-descriptions-view {
+  border-radius: 0 !important;
+  border: none !important; /* Remove border radius */
+}
+
+
+
+.ant-table-cell{
+  border-bottom: 3px !important;
+  padding :10px !important;
+  padding-bottom: 0px !important
+
+}
+
