@@ -17,13 +17,15 @@ Key Features:
 
 ## YouTube Videos
 
-- [![Video ](#)](https://youtu.be/p83fxhX6tXg?si=F3BDF28QoR99QbyP)
+- [![Video ](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/4.png)](https://youtu.be/p83fxhX6tXg?si=F3BDF28QoR99QbyP)
 
 
 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/1.png)
-
-![Screenshot 2](Images/screenshot2.png)
-
+![Screenshot 2](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/2.png)
+![Screenshot 2](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/3.png)
+![Screenshot 2](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/4.png)
+![Screenshot 2](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/5.png)
+![Screenshot 2](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/6.png)
