@@ -3,15 +3,15 @@
 
 Key Features:
 
-JSON Log Parsing: Automate the parsing of JSON logs sourced from Elasticsearch, ensuring streamlined ticket creation and comprehensive analysis.
+- JSON Log Parsing: Automate the parsing of JSON logs sourced from Elasticsearch, ensuring streamlined ticket creation and comprehensive analysis.
 
-OpenAI Integration: Collaborate with ChatGPT to generate templates for different rule names without exposing sensitive data, simplifying ticket creation.
+- OpenAI Integration: Collaborate with ChatGPT to generate templates for different rule names without exposing sensitive data, simplifying ticket creation.
 
-Efficient Ticket Creation: Automatically generate investigation tickets with essential log data, seamlessly integrating with Elasticsearch for comprehensive analysis and investigation.
+- Efficient Ticket Creation: Automatically generate investigation tickets with essential log data, seamlessly integrating with Elasticsearch for comprehensive analysis and investigation.
 
-IP Address Filtering: Easily filter and identify crucial IP address information, improving threat detection and tracking within Elasticsearch.
+- IP Address Filtering: Easily filter and identify crucial IP address information, improving threat detection and tracking within Elasticsearch.
 
-OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations directly within the Elasticsearch environment.
+- OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations directly within the Elasticsearch environment.
 
 
 
