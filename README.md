@@ -12,3 +12,18 @@ Key Features:
 -IP Address Filtering: Easily filter and identify crucial IP address information, improving threat detection and tracking.
 
 -OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations directly within Ticket Master.
+
+
+
+## YouTube Videos
+
+- [![Video ](#)](https://youtu.be/p83fxhX6tXg?si=F3BDF28QoR99QbyP)
+
+
+
+## Screenshots
+
+![Screenshot 1](Images/screenshot1.png)
+
+![Screenshot 2](Images/screenshot2.png)
+
