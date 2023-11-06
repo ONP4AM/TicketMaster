@@ -23,7 +23,7 @@ Key Features:
 
 ## Screenshots
 
-![Screenshot 1](src\Components\Photos\1.png)
+![Screenshot 1](https://github.com/ONP4AM/TicketMaster/blob/main/src/Functions/1.png)
 
 ![Screenshot 2](Images/screenshot2.png)
 
