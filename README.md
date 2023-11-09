@@ -7,9 +7,9 @@ Key Features:
 
 - OpenAI Integration: Collaborate with ChatGPT to generate templates for different rule names without exposing sensitive data, simplifying ticket creation.
 
-- Efficient Ticket Creation: Automatically generate investigation tickets with essential log data, seamlessly integrating with Elasticsearch for comprehensive analysis and investigation.
+- Efficient Ticket Creation: Automatically generate investigation tickets with essential log data.
 
-- IP Address Filtering: Easily filter and identify crucial IP address information, improving threat detection and tracking within Elasticsearch.
+- IP Address Filtering: Easily filter and identify crucial IP address information.
 
 - OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations directly within the Elasticsearch environment.
 
