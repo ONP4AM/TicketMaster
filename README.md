@@ -1,6 +1,5 @@
 # Ticketmaster
- Welcome to the Ticket Master repository! Ticket Master is a tool designed to enhance the efficiency and effectiveness of incident response and log analysis within a Security Information and Event Management (SIEM) environment.
-
+ Welcome to the Ticket Master repository! Ticket Master is a tool designed to enhance the efficiency and effectiveness of incident response and log analysis.
 Key Features:
 
 - JSON Log Parsing: Automate the parsing of JSON logs sourced from Elasticsearch, ensuring streamlined ticket creation and comprehensive analysis.
