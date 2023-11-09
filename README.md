@@ -11,8 +11,7 @@ Key Features:
 
 - IP Address Filtering: Easily filter and identify crucial IP address information.
 
-- OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations directly within the Elasticsearch environment.
-
+- OSINT Integration: Seamlessly connect with Open Source Intelligence (OSINT) tools like VirusTotal, AbuseIPDB, Criminal IP databases, and Censys to enhance investigations.
 
 
 ## YouTube Videos
